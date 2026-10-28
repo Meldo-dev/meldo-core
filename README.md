@@ -1,8 +1,8 @@
 # meldo-core
 
-The shared Rust core of [Meldo](https://meldo.dev), the school planner for students in Germany. It holds everything both apps compute the same way: grade averages on the 1–6 and 0–15 scales, timetable derivation (A/B weeks, substitutions), WebUntis parsing, participation statistics and task rules. It's exposed to Swift and Kotlin through [UniFFI](https://github.com/mozilla/uniffi-rs).
+This is the Rust core of [Meldo](https://meldo.dev), a school planner for students in Germany. Anything the iOS and Android apps must compute the same way lives here: grade averages on the 1–6 and 0–15 scales, the timetable with A/B weeks and substitutions, WebUntis parsing, participation statistics and the rules for tasks. Both apps call it through [UniFFI](https://github.com/mozilla/uniffi-rs), which generates the Swift and Kotlin bindings.
 
-| Crate | What it does |
+| Crate | Contents |
 |---|---|
 | `melde-core` | Shared types: dates, subjects, lessons |
 | `melde-grades` | Grade scales, weighting, rounding, "grade needed" |
@@ -13,14 +13,14 @@ The shared Rust core of [Meldo](https://meldo.dev), the school planner for stude
 | `melde-ffi` | The UniFFI surface both apps bind to |
 | `tools/uniffi-bindgen` | Pinned binding generator |
 
-`l10n/Localizable.xcstrings` is the string catalog (German and English) shared by both apps.
+Both apps also take their strings from here. `l10n/Localizable.xcstrings` is the German and English string catalog.
 
 ## Use
 
-The apps include this repo as a git submodule at `core/`:
+Each app includes this repo as a git submodule at `core/`:
 
-- [meldo-ios](https://github.com/meldo-dev/meldo-ios): `scripts/build-rust-ios.sh` builds an XCFramework and the Swift bindings.
-- [meldo-android](https://github.com/meldo-dev/meldo-android): Gradle builds the `.so` libraries with `cargo-ndk` and the Kotlin bindings.
+- [meldo-ios](https://github.com/meldo-dev/meldo-ios) runs `scripts/build-rust-ios.sh` to build an XCFramework and the Swift bindings.
+- [meldo-android](https://github.com/meldo-dev/meldo-android) lets Gradle build the `.so` libraries with `cargo-ndk` and generate the Kotlin bindings.
 
 ## Develop
 
@@ -32,7 +32,7 @@ cargo test --workspace
 cargo clippy --workspace --all-targets -- -D warnings
 ```
 
-After changing the core, bump the submodule in both app repos.
+When you change the core, bump the submodule in both app repos so they pick it up.
 
 ## License
 
