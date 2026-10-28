@@ -1,0 +1,27 @@
+[package]
+name = "melde-ffi"
+description = "UniFFI bridge exposing the Melde Planner Rust core to Swift (and later Kotlin/WASM)."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[lib]
+name = "melde_ffi"
+# staticlib → linked into the iOS app via XCFramework; cdylib → library-mode bindgen and tests.
+crate-type = ["lib", "staticlib", "cdylib"]
+
+[dependencies]
+melde-core.workspace = true
+melde-grades.workspace = true
+melde-scheduling.workspace = true
+melde-statistics.workspace = true
+melde-tasks.workspace = true
+melde-untis.workspace = true
+chrono.workspace = true
+thiserror.workspace = true
+uniffi.workspace = true
+
+[lints]
+workspace = true

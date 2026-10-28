@@ -1,0 +1,4 @@
+# Both apps build the core from this repo (git submodule); one toolchain for all of them.
+[toolchain]
+channel = "stable"
+components = ["clippy", "rustfmt"]

@@ -1,0 +1,15 @@
+[package]
+name = "melde-scheduling"
+description = "Stundenplan logic for Melde Planner: weekly lessons, A/B weeks, holidays, changes, current and next lesson."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+melde-core.workspace = true
+chrono.workspace = true
+
+[lints]
+workspace = true

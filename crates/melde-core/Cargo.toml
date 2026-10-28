@@ -1,0 +1,15 @@
+[package]
+name = "melde-core"
+description = "Shared domain primitives for Melde Planner (calendar values, ids, validation errors)."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+chrono.workspace = true
+thiserror.workspace = true
+
+[lints]
+workspace = true

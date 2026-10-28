@@ -1,0 +1,19 @@
+[package]
+name = "melde-tasks"
+description = "Hausaufgaben and to-dos for Melde Planner: grouping, recurrence, homework streaks and due-date suggestions."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+melde-core.workspace = true
+melde-scheduling.workspace = true
+chrono.workspace = true
+
+[dev-dependencies]
+proptest.workspace = true
+
+[lints]
+workspace = true

@@ -1,0 +1,18 @@
+[package]
+name = "melde-grades"
+description = "German grade scales, weighted averages and grade forecasting for Melde Planner."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+melde-core.workspace = true
+thiserror.workspace = true
+
+[dev-dependencies]
+proptest.workspace = true
+
+[lints]
+workspace = true
