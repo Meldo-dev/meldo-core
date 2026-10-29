@@ -1590,13 +1590,13 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Da Meldo deine Einträge nicht auf einem eigenen Server speichert, kann der Entwickler sie weder einsehen noch herausgeben. Hast du in den Einstellungen deines Geräts erlaubt, Analysedaten mit App-Entwicklern zu teilen, gibt Apple Absturzberichte ohne deinen Namen an den Entwickler weiter. Sie enthalten Gerätemodell, Systemversion und die Stelle im Code, aber keine Meldo-Einträge, und dienen nur dazu, Fehler zu beheben (Art. 6 Abs. 1 lit. f DSGVO). Anfragen zu Daten bei WebUntis, Microsoft oder Google richtest du an deine Schule oder an den jeweiligen Anbieter. Deine Rechte nach der Datenschutz-Grundverordnung (DSGVO) gelten dort weiterhin. Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Beschwerde bei einer Aufsichtsbehörde. Widerspruchsrecht: Verarbeiten wir Daten nach Art. 6 Abs. 1 lit. f DSGVO, kannst du dem jederzeit widersprechen, per E-Mail an contact@meldo.dev. Die ganze Datenschutzerklärung findest du unter meldo.dev/de/privacy."
+            "value": "Da Meldo deine Einträge nicht auf einem eigenen Server speichert, kann der Entwickler sie weder einsehen noch herausgeben. Hast du in den Einstellungen deines Geräts erlaubt, Analysedaten mit App-Entwicklern zu teilen, gibt Apple Absturzberichte ohne deinen Namen an den Entwickler weiter. Sie enthalten Gerätemodell, Systemversion und die Stelle im Code, aber keine Meldo-Einträge, und dienen nur dazu, Fehler zu beheben (Art. 6 Abs. 1 lit. f DSGVO). Anfragen zu Daten bei WebUntis, Microsoft oder Google richtest du an deine Schule oder an den jeweiligen Anbieter. Deine Rechte nach der Datenschutz-Grundverordnung (DSGVO) gelten dort weiterhin. Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Beschwerde bei einer Aufsichtsbehörde. Die ganze Datenschutzerklärung findest du unter meldo.dev/de/privacy."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Because Meldo does not store your entries on a server of its own, the developer can neither see them nor hand them over. If you allowed sharing analytics with app developers in your device settings, Apple passes crash reports to the developer without your name. They contain the device model, system version and the place in the code, but no Meldo entries, and are used only to fix bugs (Art. 6(1)(f) GDPR). Requests about your data at WebUntis, Microsoft or Google go to your school or the provider concerned. Your rights under the General Data Protection Regulation (GDPR) still apply there. You have the right of access, rectification, erasure, restriction, data portability and objection, and the right to lodge a complaint with a supervisory authority. Right to object: where data is processed under Art. 6(1)(f) GDPR, you can object at any time by emailing contact@meldo.dev. You can find the full privacy policy at meldo.dev/en/privacy."
+            "value": "Because Meldo does not store your entries on a server of its own, the developer can neither see them nor hand them over. If you allowed sharing analytics with app developers in your device settings, Apple passes crash reports to the developer without your name. They contain the device model, system version and the place in the code, but no Meldo entries, and are used only to fix bugs (Art. 6(1)(f) GDPR). Requests about your data at WebUntis, Microsoft or Google go to your school or the provider concerned. Your rights under the General Data Protection Regulation (GDPR) still apply there. You have the right of access, rectification, erasure, restriction, data portability and objection, and the right to lodge a complaint with a supervisory authority. You can find the full privacy policy at meldo.dev/en/privacy."
           }
         }
       }
@@ -2038,7 +2038,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Deine Google Anmeldung ist abgelaufen. Melde dich erneut an."
+            "value": "Deine Google-Anmeldung ist abgelaufen. Melde dich erneut an."
           }
         },
         "en": {
@@ -2054,7 +2054,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Deine Microsoft Anmeldung ist abgelaufen. Melde dich erneut an."
+            "value": "Deine Microsoft-Anmeldung ist abgelaufen. Melde dich erneut an."
           }
         },
         "en": {
@@ -2134,7 +2134,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Deine WebUntis Anmeldung ist abgelaufen. Melde dich erneut an."
+            "value": "Deine WebUntis-Anmeldung ist abgelaufen. Melde dich erneut an."
           }
         },
         "en": {
@@ -3190,7 +3190,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Für Teams braucht Meldo eine App Registrierung bei Microsoft (Azure). Sobald sie eingetragen ist, kannst du dich hier anmelden. Manche Schulen müssen Meldo außerdem freigeben."
+            "value": "Für Teams braucht Meldo eine App-Registrierung bei Microsoft (Azure). Sobald sie eingetragen ist, kannst du dich hier anmelden. Manche Schulen müssen Meldo außerdem freigeben."
           }
         },
         "en": {
@@ -5094,7 +5094,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo hat keinen eigenen Server und kein Konto. Wir zeigen keine Werbung, nutzen kein Tracking und keine Analysedienste. Deine Daten werden auf deinem Gerät gespeichert. Nur wenn du WebUntis, Microsoft Teams oder Google Drive selbst verbindest, tauscht Meldo-Daten mit diesen Diensten aus."
+            "value": "Meldo hat keinen eigenen Server und kein Konto. Wir zeigen keine Werbung, nutzen kein Tracking und keine Analysedienste. Deine Daten werden auf deinem Gerät gespeichert. Nur wenn du WebUntis, Microsoft Teams oder Google Drive selbst verbindest, tauscht Meldo Daten mit diesen Diensten aus."
           }
         },
         "en": {
@@ -5126,13 +5126,13 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo ist für Schülerinnen und Schüler gemacht, auch unter 16 Jahren. Der Entwickler sammelt über Meldo keine Daten über dich. Für die Anmeldung bei WebUntis, Microsoft und Google gelten die Regeln deiner Schule und dieser Anbieter. Bist du unter 16, sprich mit deinen Eltern, bevor du Microsoft oder Google verbindest."
+            "value": "Meldo ist für Schülerinnen und Schüler gemacht, auch unter 16 Jahren. Der Entwickler bekommt über Meldo keine Daten über dich, außer Absturzberichten ohne deinen Namen, wenn du das erlaubt hast (siehe „Deine Rechte“). Für die Anmeldung bei WebUntis, Microsoft und Google gelten die Regeln deiner Schule und dieser Anbieter. Bist du unter 16, sprich mit deinen Eltern, bevor du Microsoft oder Google verbindest."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo is made for students, including those under 16. The developer does not collect data about you through Meldo. Signing in to WebUntis, Microsoft and Google is governed by the rules of your school and those providers. If you are under 16, talk to your parents before connecting Microsoft or Google."
+            "value": "Meldo is made for students, including those under 16. The developer gets no data about you through Meldo, except crash reports without your name if you allowed them (see “Your rights”). Signing in to WebUntis, Microsoft and Google is governed by the rules of your school and those providers. If you are under 16, talk to your parents before connecting Microsoft or Google."
           }
         }
       }
@@ -5222,7 +5222,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo übernimmt die Aufgaben deiner Teams Kurse als Hausaufgaben. Du meldest dich direkt bei Microsoft an; dein Passwort sieht Meldo nie."
+            "value": "Meldo übernimmt die Aufgaben deiner Teams-Kurse als Hausaufgaben. Du meldest dich direkt bei Microsoft an; dein Passwort sieht Meldo nie."
           }
         },
         "en": {
@@ -5446,7 +5446,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mit deinem WebUntis Login anmelden"
+            "value": "Mit deinem WebUntis-Login anmelden"
           }
         },
         "en": {
@@ -5777,18 +5777,18 @@
         }
       }
     },
-    "Neue Aufgaben kommen automatisch dazu, wenn du die App öffnest (höchstens alle drei Stunden).": {
+    "Neue Aufgaben kommen automatisch dazu, beim Öffnen und im Hintergrund, höchstens alle drei Stunden.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Neue Aufgaben kommen automatisch dazu, wenn du die App öffnest (höchstens alle drei Stunden)."
+            "value": "Neue Aufgaben kommen automatisch dazu, beim Öffnen und im Hintergrund, höchstens alle drei Stunden."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "New tasks are added automatically when you open the app (at most once every three hours)."
+            "value": "New tasks are added automatically, when you open the app and in the background, at most every three hours."
           }
         }
       }
@@ -10438,13 +10438,13 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Fächer, Stundenplan, Meldungen, Noten, Aufgaben, Ferien, Abwesenheiten, Einstellungen, eingescannte oder importierte Dokumente sowie Entschuldigungen, die du in Meldo erstellst. Dokumente und Entschuldigungen liegen im Meldo Ordner der App „Dateien“. Eine Entschuldigung kann einen Grund wie Krankheit enthalten; Meldo merkt sich dafür deinen Namen und deine Klasse. Widgets und der Knopf „Melden“ lesen dieselben Daten auf diesem Gerät."
+            "value": "Fächer, Stundenplan, Meldungen, Noten, Aufgaben, Ferien, Abwesenheiten, Einstellungen, eingescannte oder importierte Dokumente sowie Entschuldigungen, die du in Meldo erstellst. Dokumente und Entschuldigungen liegen im Meldo-Ordner der App „Dateien“. Eine Entschuldigung kann einen Grund wie Krankheit enthalten; Meldo merkt sich dafür deinen Namen und deine Klasse. Widgets und der Knopf „Melden“ lesen dieselben Daten auf diesem Gerät."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Subjects, timetable, contributions, grades, tasks, holidays, absences, settings, scanned or imported documents and excuse notes you create in Meldo. Documents and excuse notes are kept in the Meldo folder of the Files app. An excuse note can contain a reason such as illness; for this, Meldo remembers your name and class. Widgets and the Raise hand button read the same data on this device."
+            "value": "Subjects, timetable, hand-raises, grades, tasks, holidays, absences, settings, scanned or imported documents and excuse notes you create in Meldo. Documents and excuse notes are kept in the Meldo folder of the Files app. An excuse note can contain a reason such as illness; for this, Meldo remembers your name and class. Widgets and the Raise hand button read the same data on this device."
           }
         }
       }
@@ -11117,6 +11117,38 @@
           "stringUnit": {
             "state": "translated",
             "value": "For scanning, Meldo uses Apple's document scanner. The pages are captured on your device and saved as a PDF in Meldo. For photos, Meldo only gets the pictures you pick. You choose PDFs in the Files app. Meldo sends no data to a server for this."
+          }
+        }
+      }
+    },
+    "Widerspruchsrecht": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Widerspruchsrecht"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Right to object"
+          }
+        }
+      }
+    },
+    "Verarbeitet der Entwickler Daten nach Art. 6 Abs. 1 lit. f DSGVO (Absturzberichte, E-Mails), kannst du dem jederzeit widersprechen, per E-Mail an contact@meldo.dev.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verarbeitet der Entwickler Daten nach Art. 6 Abs. 1 lit. f DSGVO (Absturzberichte, E-Mails), kannst du dem jederzeit widersprechen, per E-Mail an contact@meldo.dev."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where the developer processes data under Art. 6(1)(f) GDPR (crash reports, emails), you can object at any time by emailing contact@meldo.dev."
           }
         }
       }
