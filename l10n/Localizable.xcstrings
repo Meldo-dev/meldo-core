@@ -11152,6 +11152,22 @@
           }
         }
       }
+    },
+    "Nutzungsbedingungen": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutzungsbedingungen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terms of use"
+          }
+        }
+      }
     }
   },
   "version": "1.0"
