@@ -10,7 +10,6 @@ mod grades;
 mod participation;
 mod tasks;
 mod timetable;
-mod untis;
 
 use melde_core::{Date, LocalDateTime, LocalTime, ValidationError, Weekday};
 
@@ -21,26 +20,6 @@ use melde_core::{Date, LocalDateTime, LocalTime, ValidationError, Weekday};
 pub enum MeldeError {
     #[error("invalid input: {detail}")]
     InvalidInput { detail: String },
-    /// WebUntis answered with an error (e.g. code -8504 = wrong user name or password).
-    #[error("WebUntis error {code}: {detail}")]
-    UntisServer { code: i64, detail: String },
-    /// The response was not what WebUntis normally sends (school blocks access, maintenance page).
-    #[error("unexpected WebUntis response: {detail}")]
-    UntisMalformed { detail: String },
-}
-
-impl From<melde_untis::UntisError> for MeldeError {
-    fn from(e: melde_untis::UntisError) -> Self {
-        match e {
-            melde_untis::UntisError::Server { code, message } => MeldeError::UntisServer {
-                code,
-                detail: message,
-            },
-            melde_untis::UntisError::Malformed(message) => {
-                MeldeError::UntisMalformed { detail: message }
-            }
-        }
-    }
 }
 
 impl From<ValidationError> for MeldeError {
