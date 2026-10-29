@@ -17,22 +17,6 @@
         }
       }
     },
-    "%@ ist gerade nicht erreichbar.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ist gerade nicht erreichbar."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ can't be reached right now."
-          }
-        }
-      }
-    },
     "%@ ist vorbei": {
       "localizations": {
         "de": {
@@ -241,22 +225,6 @@
         }
       }
     },
-    "%lld nicht entschuldigt": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld nicht entschuldigt"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld unexcused"
-          }
-        }
-      }
-    },
     "%lld von %lld": {
       "localizations": {
         "de": {
@@ -417,22 +385,6 @@
         }
       }
     },
-    "1. Schule finden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. Schule finden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. Find your school"
-          }
-        }
-      }
-    },
     "2 Tage": {
       "localizations": {
         "de": {
@@ -445,22 +397,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "2 days"
-          }
-        }
-      }
-    },
-    "2. Anmelden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. Anmelden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. Sign in"
           }
         }
       }
@@ -573,22 +509,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Absences"
-          }
-        }
-      }
-    },
-    "Aktualisiert: %lld Stunden, %lld Änderungen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktualisiert: %lld Stunden, %lld Änderungen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Updated: %lld lessons, %lld changes."
           }
         }
       }
@@ -769,54 +689,6 @@
         }
       }
     },
-    "Angaben": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Angaben"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Details"
-          }
-        }
-      }
-    },
-    "Angemeldet. Stundenplan wird geladen …": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Angemeldet. Stundenplan wird geladen …"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Signed in. Loading your timetable …"
-          }
-        }
-      }
-    },
-    "Anmelden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Anmelden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sign in"
-          }
-        }
-      }
-    },
     "Anmeldung abgebrochen.": {
       "localizations": {
         "de": {
@@ -845,22 +717,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Customize"
-          }
-        }
-      }
-    },
-    "Anrede": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Anrede"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Form of address"
           }
         }
       }
@@ -993,22 +849,6 @@
         }
       }
     },
-    "Arzttermin": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Arzttermin"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Doctor's appointment"
-          }
-        }
-      }
-    },
     "Auch über das Kontrollzentrum, den Sperrbildschirm oder die Nachfrage nach der Stunde. Halte dich an die Handyregeln deiner Schule.": {
       "localizations": {
         "de": {
@@ -1137,22 +977,6 @@
         }
       }
     },
-    "Aus dem Klassenbuch in WebUntis, dieses Schuljahr. Entschuldigungen reichst du weiter bei deiner Schule ein.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aus dem Klassenbuch in WebUntis, dieses Schuljahr. Entschuldigungen reichst du weiter bei deiner Schule ein."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "From the WebUntis class register for this school year. You still hand in excuse notes to your school."
-          }
-        }
-      }
-    },
     "Ausblenden": {
       "localizations": {
         "de": {
@@ -1169,22 +993,6 @@
         }
       }
     },
-    "Ausfall von Bus oder Bahn": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausfall von Bus oder Bahn"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bus or train cancelled"
-          }
-        }
-      }
-    },
     "Ausfälle": {
       "localizations": {
         "de": {
@@ -1197,22 +1005,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cancellations"
-          }
-        }
-      }
-    },
-    "Ausfälle und Vertretungen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausfälle und Vertretungen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancellations and substitutions"
           }
         }
       }
@@ -1409,22 +1201,6 @@
         }
       }
     },
-    "Beginnt %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Beginnt %@"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Starts %@"
-          }
-        }
-      }
-    },
     "Beginnt in": {
       "localizations": {
         "de": {
@@ -1437,70 +1213,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Starts in"
-          }
-        }
-      }
-    },
-    "Behördentermin": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Behördentermin"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Appointment at a public office"
-          }
-        }
-      }
-    },
-    "Benutzer": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Benutzer"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "User"
-          }
-        }
-      }
-    },
-    "Benutzername": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Benutzername"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Username"
-          }
-        }
-      }
-    },
-    "Benutzername oder Passwort ist falsch.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Benutzername oder Passwort ist falsch."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Username or password is incorrect."
           }
         }
       }
@@ -1533,38 +1245,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Earlier contributions are kept, but without a subject."
-          }
-        }
-      }
-    },
-    "Bitte melde dich erneut an.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bitte melde dich erneut an."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Please sign in again."
-          }
-        }
-      }
-    },
-    "Bitte wählen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bitte wählen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Please choose"
           }
         }
       }
@@ -1697,22 +1377,6 @@
         }
       }
     },
-    "Das PDF konnte nicht gespeichert werden.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Das PDF konnte nicht gespeichert werden."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The PDF couldn't be saved."
-          }
-        }
-      }
-    },
     "Das Passwort braucht mindestens 8 Zeichen.": {
       "localizations": {
         "de": {
@@ -1841,22 +1505,6 @@
         }
       }
     },
-    "Davon %lld Verspätungen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Davon %lld Verspätungen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Including %lld late arrivals"
-          }
-        }
-      }
-    },
     "Dein Backup wird mit diesem Passwort auf dem Gerät verschlüsselt, bevor es zu Google geht. Google kann es nicht lesen. Ohne das Passwort lässt es sich nicht wiederherstellen. Mindestens 8 Zeichen.": {
       "localizations": {
         "de": {
@@ -1889,22 +1537,6 @@
         }
       }
     },
-    "Dein Name": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dein Name"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your name"
-          }
-        }
-      }
-    },
     "Dein Schultag an einem Ort: Melden, Stundenplan, Aufgaben und Noten.": {
       "localizations": {
         "de": {
@@ -1917,38 +1549,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Your school day in one place: raising your hand, timetable, tasks and grades."
-          }
-        }
-      }
-    },
-    "Dein Stundenplan bleibt erhalten, wird aber nicht mehr aktualisiert. Das Passwort wird gelöscht.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dein Stundenplan bleibt erhalten, wird aber nicht mehr aktualisiert. Das Passwort wird gelöscht."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your timetable stays but is no longer updated. The password is deleted."
-          }
-        }
-      }
-    },
-    "Deine Anmeldung geht direkt an WebUntis, nie an Meldo, und bleibt im Schlüsselbund dieses Geräts.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine Anmeldung geht direkt an WebUntis, nie an Meldo, und bleibt im Schlüsselbund dieses Geräts."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your sign-in goes straight to WebUntis, never to Meldo, and stays in this device's Keychain."
           }
         }
       }
@@ -2001,22 +1601,6 @@
         }
       }
     },
-    "Deine Schule erlaubt diesen Zugriff gerade nicht, oder WebUntis wird gewartet.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine Schule erlaubt diesen Zugriff gerade nicht, oder WebUntis wird gewartet."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your school doesn't allow this access right now, or WebUntis is under maintenance."
-          }
-        }
-      }
-    },
     "Deine Schule zeigt den Stundenplan nur bis %@.": {
       "localizations": {
         "de": {
@@ -2045,22 +1629,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Your documents in one place"
-          }
-        }
-      }
-    },
-    "Deine WebUntis-Anmeldung ist abgelaufen. Melde dich erneut an.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine WebUntis-Anmeldung ist abgelaufen. Melde dich erneut an."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your WebUntis sign-in has expired. Please sign in again."
           }
         }
       }
@@ -2129,22 +1697,6 @@
         }
       }
     },
-    "Derselbe Benutzername und dasselbe Passwort wie auf der WebUntis-Seite oder in der Untis-App deiner Schule. Das Passwort wird nur im Schlüsselbund dieses iPhones gespeichert.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Derselbe Benutzername und dasselbe Passwort wie auf der WebUntis Seite oder in der Untis App deiner Schule. Das Passwort wird nur im Schlüsselbund dieses iPhones gespeichert."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The same username and password as on your school's WebUntis page or in the Untis app. The password is stored only in this iPhone's Keychain."
-          }
-        }
-      }
-    },
     "Design": {
       "localizations": {
         "de": {
@@ -2173,22 +1725,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Details"
-          }
-        }
-      }
-    },
-    "Die Anmeldeseite": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Anmeldeseite"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The sign-in page"
           }
         }
       }
@@ -2257,22 +1793,6 @@
         }
       }
     },
-    "Die nächsten Ferien erscheinen hier, sobald deine Schule sie in WebUntis einträgt.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die nächsten Ferien erscheinen hier, sobald deine Schule sie in WebUntis einträgt."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your next school holidays appear here as soon as your school adds them in WebUntis."
-          }
-        }
-      }
-    },
     "Diese Datei ist kein lesbares PDF.": {
       "localizations": {
         "de": {
@@ -2301,22 +1821,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "This file is too large (maximum 100 MB)."
-          }
-        }
-      }
-    },
-    "Diese Schule steht nicht in der WebUntis-Schulsuche. Trenne WebUntis und verbinde dich neu.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Diese Schule steht nicht in der WebUntis-Schulsuche. Trenne WebUntis und verbinde dich neu."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This school isn't in the WebUntis school search. Disconnect WebUntis and connect again."
           }
         }
       }
@@ -2433,22 +1937,6 @@
         }
       }
     },
-    "Drucken oder teilen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Drucken oder teilen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Print or share"
-          }
-        }
-      }
-    },
     "Du brauchst %@ oder besser.": {
       "localizations": {
         "de": {
@@ -2461,22 +1949,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "You need %@ or better."
-          }
-        }
-      }
-    },
-    "Du unterschreibst die Entschuldigung selbst.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Du unterschreibst die Entschuldigung selbst."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "You sign the excuse note yourself."
           }
         }
       }
@@ -2593,38 +2065,6 @@
         }
       }
     },
-    "Entschuldigung": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entschuldigung"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Excuse note"
-          }
-        }
-      }
-    },
-    "Entschuldigung erstellen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entschuldigung erstellen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Create excuse note"
-          }
-        }
-      }
-    },
     "Erfasst eine Meldung für die laufende Stunde.": {
       "localizations": {
         "de": {
@@ -2685,22 +2125,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Done"
-          }
-        }
-      }
-    },
-    "Erneut mit Schul-Login anmelden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erneut mit Schullogin anmelden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sign in again with your school login"
           }
         }
       }
@@ -2865,22 +2289,6 @@
         }
       }
     },
-    "Familiäre Gründe": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Familiäre Gründe"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Family reasons"
-          }
-        }
-      }
-    },
     "Farbe": {
       "localizations": {
         "de": {
@@ -2893,22 +2301,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Color"
-          }
-        }
-      }
-    },
-    "Fehlzeit": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehlzeit"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Absence"
           }
         }
       }
@@ -3053,22 +2445,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Add the lessons for %@."
-          }
-        }
-      }
-    },
-    "Für Schulen, bei denen du dich bei WebUntis mit Microsoft 365, IServ oder einer anderen Seite anmeldest. Du meldest dich auf der echten Seite deiner Schule an; Meldo sieht dein Passwort nie.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Für Schulen, bei denen du dich bei WebUntis mit Microsoft 365, IServ oder einer anderen Seite anmeldest. Du meldest dich auf der echten Seite deiner Schule an; Meldo sieht dein Passwort nie."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "For schools where you sign in to WebUntis through Microsoft 365, IServ or another page. You sign in on your school's real page; Meldo never sees your password."
           }
         }
       }
@@ -3329,22 +2705,6 @@
         }
       }
     },
-    "Gib den Namen deiner Schule zusammen mit dem Ort ein, zum Beispiel „Gymnasium Köln-Pesch“. Bei zu allgemeinen Suchen zeigt WebUntis keine Liste an.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gib den Namen deiner Schule zusammen mit dem Ort ein, zum Beispiel „Gymnasium Köln-Pesch“. Bei zu allgemeinen Suchen zeigt WebUntis keine Liste an."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Enter your school's name along with the town, for example “Gymnasium Köln-Pesch”. If your search is too general, WebUntis won't show a list."
-          }
-        }
-      }
-    },
     "Google Drive": {
       "localizations": {
         "de": {
@@ -3421,70 +2781,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Large"
-          }
-        }
-      }
-    },
-    "Grund": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grund"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reason"
-          }
-        }
-      }
-    },
-    "Grund eingeben": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grund eingeben"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Enter a reason"
-          }
-        }
-      }
-    },
-    "Grund für das Fehlen: %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grund für das Fehlen: %@"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reason for the absence: %@"
-          }
-        }
-      }
-    },
-    "Grund, z. B. Krankheit": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grund, z. B. Krankheit"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reason, e.g. illness"
           }
         }
       }
@@ -3777,22 +3073,6 @@
         }
       }
     },
-    "Heute keine Nachrichten von der Schule.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heute keine Nachrichten von der Schule."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No messages from school today."
-          }
-        }
-      }
-    },
     "Hi, ich bin Meldo! Lege deine Fächer und deinen Stundenplan an. Danach ordne ich jede Meldung automatisch der laufenden Stunde zu.": {
       "localizations": {
         "de": {
@@ -3853,86 +3133,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "High"
-          }
-        }
-      }
-    },
-    "Ich bin angemeldet": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ich bin angemeldet"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "I'm signed in"
-          }
-        }
-      }
-    },
-    "Ich bin volljährig": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ich bin volljährig"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "I'm an adult"
-          }
-        }
-      }
-    },
-    "Ich bitte um Verständnis.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ich bitte um Verständnis."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Thank you for your understanding."
-          }
-        }
-      }
-    },
-    "Importiert": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Importiert"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Imported"
-          }
-        }
-      }
-    },
-    "In den Ferien fallen alle Stunden aus und Meldo fragt nicht nach Meldungen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "In den Ferien fallen alle Stunden aus und Meldo fragt nicht nach Meldungen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "During school holidays, all lessons are cancelled and Meldo doesn't ask about contributions."
           }
         }
       }
@@ -4193,22 +3393,6 @@
         }
       }
     },
-    "Keine Abwesenheiten.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Abwesenheiten."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No absences."
-          }
-        }
-      }
-    },
     "Keine App-Gruppe in dieser Installation. Installiere Meldo mit AltStore, dann funktionieren Widgets.": {
       "localizations": {
         "de": {
@@ -4221,22 +3405,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "This installation has no App Group. Install Meldo with AltStore and widgets will work."
-          }
-        }
-      }
-    },
-    "Keine Ferien eingetragen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Ferien eingetragen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No holidays added"
           }
         }
       }
@@ -4269,38 +3437,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "No grades"
-          }
-        }
-      }
-    },
-    "Keine Prüfungen eingetragen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Prüfungen eingetragen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No exams added."
-          }
-        }
-      }
-    },
-    "Keine Schule gefunden. Prüfe die Schreibweise oder versuche nur Schulart und Ort.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Schule gefunden. Prüfe die Schreibweise oder versuche nur Schulart und Ort."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No school found. Check the spelling or try just the school type and town."
           }
         }
       }
@@ -4353,38 +3489,6 @@
         }
       }
     },
-    "Keine Verbindung zu WebUntis. Prüfe dein Internet.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Verbindung zu WebUntis. Prüfe dein Internet."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Can't connect to WebUntis. Check your internet connection."
-          }
-        }
-      }
-    },
-    "Keine kommenden Ferien": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine kommenden Ferien"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No upcoming holidays"
-          }
-        }
-      }
-    },
     "Keine weiteren Stunden.": {
       "localizations": {
         "de": {
@@ -4433,22 +3537,6 @@
         }
       }
     },
-    "Klasse": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Klasse"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Class"
-          }
-        }
-      }
-    },
     "Klein": {
       "localizations": {
         "de": {
@@ -4493,22 +3581,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Account"
-          }
-        }
-      }
-    },
-    "Krankheit": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Krankheit"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Illness"
           }
         }
       }
@@ -4833,22 +3905,6 @@
         }
       }
     },
-    "Melde dich so an, wie du es von WebUntis kennst, z. B. mit Microsoft 365. Meldo erkennt die Anmeldung automatisch.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Melde dich so an, wie du es von WebUntis kennst, z. B. mit Microsoft 365. Meldo erkennt die Anmeldung automatisch."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sign in the way you usually do on WebUntis, for example with Microsoft 365. Meldo detects the sign-in automatically."
-          }
-        }
-      }
-    },
     "Melden": {
       "localizations": {
         "de": {
@@ -4897,22 +3953,6 @@
         }
       }
     },
-    "Meldo aktualisiert Stundenplan, Ausfälle und Vertretungen automatisch: beim Öffnen, alle 30 Sekunden, solange die App offen ist, und im Hintergrund etwa alle 20 Minuten.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo aktualisiert Stundenplan, Ausfälle und Vertretungen automatisch: beim Öffnen, alle 30 Sekunden, solange die App offen ist, und im Hintergrund etwa alle 20 Minuten."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo updates your timetable, cancelled lessons and substitutions automatically: when you open the app, every 30 seconds while it's open, and about every 20 minutes in the background."
-          }
-        }
-      }
-    },
     "Meldo anzeigen": {
       "localizations": {
         "de": {
@@ -4929,22 +3969,6 @@
         }
       }
     },
-    "Meldo erkennt die Anmeldung noch nicht. Das hat WebUntis geantwortet:": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo erkennt die Anmeldung noch nicht. Das hat WebUntis geantwortet:"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo doesn't recognize the sign-in yet. WebUntis replied:"
-          }
-        }
-      }
-    },
     "Meldo fragt bei Google nur nach seinem versteckten App-Ordner und der E-Mail-Adresse deines Kontos. Die Adresse zeigt Meldo nur hier an.": {
       "localizations": {
         "de": {
@@ -4957,38 +3981,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Meldo asks Google only for its hidden app folder and your account's email address. Meldo only shows the address here."
-          }
-        }
-      }
-    },
-    "Meldo importiert deinen Stundenplan": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo importiert deinen Stundenplan"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo imports your timetable"
-          }
-        }
-      }
-    },
-    "Meldo sichert nach jeder Änderung und beim Öffnen. Passwörter für WebUntis und Teams bleiben auf jedem Gerät.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo synchronisiert nach jeder Änderung und beim Öffnen. Passwörter für WebUntis und Teams bleiben auf jedem Gerät."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo syncs after every change and when you open the app. Passwords for WebUntis and Teams stay on each device."
           }
         }
       }
@@ -5037,22 +4029,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Meldo only counts. Your teacher does the grading."
-          }
-        }
-      }
-    },
-    "Meldo übernimmt deinen Stundenplan, Ausfälle und Vertretungen aus WebUntis. Dein Login bleibt auf diesem iPhone und geht nur an den WebUntis-Server deiner Schule.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo übernimmt deinen Stundenplan, Ausfälle und Vertretungen aus WebUntis. Dein Login bleibt auf diesem iPhone und geht nur an den WebUntis-Server deiner Schule."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo imports your timetable, cancelled lessons and substitutions from WebUntis. Your login stays on this iPhone and is only sent to your school's WebUntis server."
           }
         }
       }
@@ -5217,22 +4193,6 @@
         }
       }
     },
-    "Mit Microsoft 365 oder Schul-Login anmelden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mit Microsoft 365 oder Schullogin anmelden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sign in with Microsoft 365 or your school login"
-          }
-        }
-      }
-    },
     "Mit Microsoft anmelden": {
       "localizations": {
         "de": {
@@ -5249,22 +4209,6 @@
         }
       }
     },
-    "Mit WebUntis verbinden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mit WebUntis verbinden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect to WebUntis"
-          }
-        }
-      }
-    },
     "Mit deinem Stundenplan ordnet Meldo jede Meldung der richtigen Stunde zu.": {
       "localizations": {
         "de": {
@@ -5277,22 +4221,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "With your timetable, Meldo matches each contribution to the right lesson."
-          }
-        }
-      }
-    },
-    "Mit deinem WebUntis-Login anmelden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mit deinem WebUntis-Login anmelden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sign in with your WebUntis login"
           }
         }
       }
@@ -5325,22 +4253,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Can't be reached with one test. At best %@."
-          }
-        }
-      }
-    },
-    "Mit freundlichen Grüßen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mit freundlichen Grüßen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kind regards"
           }
         }
       }
@@ -5553,22 +4465,6 @@
         }
       }
     },
-    "Name und Klasse merkt sich Meldo für das nächste Mal.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Name und Klasse merkt sich Meldo für das nächste Mal."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo remembers your name and class for next time."
-          }
-        }
-      }
-    },
     "Name, z. B. Mathematik": {
       "localizations": {
         "de": {
@@ -5613,22 +4509,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "New tasks are added automatically, when you open the app and in the background, at most every three hours."
-          }
-        }
-      }
-    },
-    "Neue Fächer": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Neue Fächer"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "New subjects"
           }
         }
       }
@@ -6129,22 +5009,6 @@
         }
       }
     },
-    "Nur nicht entschuldigte": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nur nicht entschuldigte"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unexcused only"
-          }
-        }
-      }
-    },
     "Nächste Ferien": {
       "localizations": {
         "de": {
@@ -6205,22 +5069,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Next week"
-          }
-        }
-      }
-    },
-    "Oder mit WebUntis-Benutzername": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Oder mit WebUntis Benutzername"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Or with your WebUntis username"
           }
         }
       }
@@ -6321,38 +5169,6 @@
         }
       }
     },
-    "Ort, Datum": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ort, Datum"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Place, date"
-          }
-        }
-      }
-    },
-    "PDF erstellen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "PDF erstellen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Create PDF"
-          }
-        }
-      }
-    },
     "PDF importieren": {
       "localizations": {
         "de": {
@@ -6381,22 +5197,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Parallel courses to choose from"
-          }
-        }
-      }
-    },
-    "Passwort": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Passwort"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Password"
           }
         }
       }
@@ -6461,22 +5261,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Plus and minus"
-          }
-        }
-      }
-    },
-    "Prüfe die Anmeldung …": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Prüfe die Anmeldung …"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Checking sign-in …"
           }
         }
       }
@@ -6705,22 +5489,6 @@
         }
       }
     },
-    "Schließen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schließen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Close"
-          }
-        }
-      }
-    },
     "Schnitt": {
       "localizations": {
         "de": {
@@ -6769,22 +5537,6 @@
         }
       }
     },
-    "Schul-Login": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schullogin"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "School login"
-          }
-        }
-      }
-    },
     "Schule": {
       "localizations": {
         "de": {
@@ -6797,38 +5549,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "School"
-          }
-        }
-      }
-    },
-    "Schule suchen und antippen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schule suchen und antippen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Search for your school and tap it"
-          }
-        }
-      }
-    },
-    "Schulname und Ort": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schulname und Ort"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "School name and town"
           }
         }
       }
@@ -6861,22 +5581,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "school days in a row"
-          }
-        }
-      }
-    },
-    "Sehr geehrte Damen und Herren,": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sehr geehrte Damen und Herren,"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dear Sir or Madam,"
           }
         }
       }
@@ -7005,22 +5709,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Should I ask you after every lesson whether you raised your hand? You answer right in the notification."
-          }
-        }
-      }
-    },
-    "Sonstiges": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sonstiges"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Other"
           }
         }
       }
@@ -7265,22 +5953,6 @@
         }
       }
     },
-    "Stunden pro Woche": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Stunden pro Woche"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lessons per week"
-          }
-        }
-      }
-    },
     "Stundenplan": {
       "localizations": {
         "de": {
@@ -7293,22 +5965,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Timetable"
-          }
-        }
-      }
-    },
-    "Stundenplan aus WebUntis übernehmen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Stundenplan aus WebUntis übernehmen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Import your timetable from WebUntis"
           }
         }
       }
@@ -7361,38 +6017,6 @@
         }
       }
     },
-    "Tage Ferien übrig": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tage Ferien übrig"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "days of holidays left"
-          }
-        }
-      }
-    },
-    "Tage bis dahin": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tage bis dahin"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "days to go"
-          }
-        }
-      }
-    },
     "Teams ist in dieser Version noch nicht eingerichtet.": {
       "localizations": {
         "de": {
@@ -7437,22 +6061,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Trend"
-          }
-        }
-      }
-    },
-    "Termine aus WebUntis. Zurückgegebene Arbeiten scannst du unten ein.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Termine aus WebUntis. Zurückgegebene Arbeiten scannst du unten ein."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dates from WebUntis. Scan returned papers below."
           }
         }
       }
@@ -7617,22 +6225,6 @@
         }
       }
     },
-    "Trennen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trennen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Disconnect"
-          }
-        }
-      }
-    },
     "Täglich": {
       "localizations": {
         "de": {
@@ -7697,54 +6289,6 @@
         }
       }
     },
-    "Unterschreiben muss eine erziehungsberechtigte Person.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unterschreiben muss eine erziehungsberechtigte Person."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A parent or guardian has to sign."
-          }
-        }
-      }
-    },
-    "Unterschrift": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unterschrift"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Signature"
-          }
-        }
-      }
-    },
-    "Unterschrift der/des Erziehungsberechtigten": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unterschrift der/des Erziehungsberechtigten"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Signature of parent or guardian"
-          }
-        }
-      }
-    },
     "Veranstaltung": {
       "localizations": {
         "de": {
@@ -7757,102 +6301,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Event"
-          }
-        }
-      }
-    },
-    "Verbinde WebUntis, dann erscheinen hier deine Prüfungstermine.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinde WebUntis, dann erscheinen hier deine Prüfungstermine."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis to see your exam dates here."
-          }
-        }
-      }
-    },
-    "Verbinde WebUntis, dann erscheinen hier die Ferien deiner Schule.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinde WebUntis, dann erscheinen hier die Ferien deiner Schule."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis to see your school's holidays here."
-          }
-        }
-      }
-    },
-    "Verbinde WebUntis, dann erscheinen hier die Ferien deiner Schule. In den Ferien fragt Meldo nicht nach Meldungen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinde WebUntis, dann erscheinen hier die Ferien deiner Schule. In den Ferien fragt Meldo nicht nach Meldungen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis to see your school's holidays here. During the holidays, Meldo doesn't ask about your contributions."
-          }
-        }
-      }
-    },
-    "Verbinde WebUntis, um Nachrichten deiner Schule zu sehen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinde WebUntis, um Nachrichten deiner Schule zu sehen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis to see your school's messages."
-          }
-        }
-      }
-    },
-    "Verbinde WebUntis, um deine Fehlzeiten zu sehen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinde WebUntis, um deine Fehlzeiten zu sehen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis to see your absences."
-          }
-        }
-      }
-    },
-    "Verbinden und importieren": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinden und importieren"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect and import"
           }
         }
       }
@@ -7985,22 +6433,6 @@
         }
       }
     },
-    "Vorschau": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vorschau"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Preview"
-          }
-        }
-      }
-    },
     "Vorschau anzeigen": {
       "localizations": {
         "de": {
@@ -8125,102 +6557,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "What went well, what needs practice?"
-          }
-        }
-      }
-    },
-    "WebUntis": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis"
-          }
-        }
-      }
-    },
-    "WebUntis hat die Anfrage abgelehnt (Code %lld).": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis hat die Anfrage abgelehnt (Code %lld)."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis rejected the request (code %lld)."
-          }
-        }
-      }
-    },
-    "WebUntis trennen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis trennen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Disconnect WebUntis"
-          }
-        }
-      }
-    },
-    "WebUntis trennen?": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis trennen?"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Disconnect WebUntis?"
-          }
-        }
-      }
-    },
-    "WebUntis verbinden": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis verbinden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis"
-          }
-        }
-      }
-    },
-    "WebUntis zeigt in den nächsten acht Wochen keinen Unterricht für dich, zum Beispiel wegen Ferien. Versuche es später noch einmal.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis zeigt in den nächsten acht Wochen keinen Unterricht für dich, zum Beispiel wegen Ferien. Versuche es später noch einmal."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WebUntis shows no lessons for you in the next eight weeks, for example because of holidays. Try again later."
           }
         }
       }
@@ -8657,22 +6993,6 @@
         }
       }
     },
-    "Zu viele Schulen gefunden. Gib mehr vom Namen und den Ort ein, zum Beispiel „Gymnasium Köln-Pesch“.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zu viele Schulen gefunden. Gib mehr vom Namen und den Ort ein, zum Beispiel „Gymnasium Köln-Pesch“."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Too many schools found. Type more of the name and the town, for example “Gymnasium Köln-Pesch”."
-          }
-        }
-      }
-    },
     "Zuletzt aktualisiert": {
       "localizations": {
         "de": {
@@ -8733,38 +7053,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Back"
-          }
-        }
-      }
-    },
-    "Zwei Exemplare pro Seite": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zwei Exemplare pro Seite"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Two copies per page"
-          }
-        }
-      }
-    },
-    "am %@ (%@ Uhr)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "am %@ (%@ Uhr)"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "on %@ (%@)"
           }
         }
       }
@@ -8849,22 +7137,6 @@
         }
       }
     },
-    "gesamt": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "gesamt"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "total"
-          }
-        }
-      }
-    },
     "geschätzt": {
       "localizations": {
         "de": {
@@ -8913,38 +7185,6 @@
         }
       }
     },
-    "hiermit bitte ich darum, das Fehlen meines Kindes %@ %@ zu entschuldigen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "hiermit bitte ich darum, das Fehlen meines Kindes %@ %@ zu entschuldigen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "I hereby ask you to excuse the absence of my child %@ %@."
-          }
-        }
-      }
-    },
-    "hiermit bitte ich darum, mein Fehlen %@ zu entschuldigen.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "hiermit bitte ich darum, mein Fehlen %@ zu entschuldigen."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "I hereby ask you to excuse my absence %@."
-          }
-        }
-      }
-    },
     "in %lld Tagen": {
       "localizations": {
         "de": {
@@ -8957,22 +7197,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "in %lld days"
-          }
-        }
-      }
-    },
-    "in diesem Schuljahr": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "in diesem Schuljahr"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "this school year"
           }
         }
       }
@@ -9009,38 +7233,6 @@
         }
       }
     },
-    "noch %lld Tage Ferien": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "noch %lld Tage Ferien"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld days of holidays left"
-          }
-        }
-      }
-    },
-    "noch keine Sitzung": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "noch keine Sitzung"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "no session yet"
-          }
-        }
-      }
-    },
     "offen": {
       "localizations": {
         "de": {
@@ -9053,22 +7245,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "open"
-          }
-        }
-      }
-    },
-    "vom %@ bis %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "vom %@ bis %@"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "from %@ to %@"
           }
         }
       }
@@ -9265,22 +7441,6 @@
         }
       }
     },
-    "Abwesenheiten und Ferien": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Abwesenheiten und Ferien"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Absences and holidays"
-          }
-        }
-      }
-    },
     "Alles, was du einträgst, liegt auf deinem iPhone oder iPad.": {
       "localizations": {
         "de": {
@@ -9393,38 +7553,6 @@
         }
       }
     },
-    "Aus WebUntis oder selbst": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aus WebUntis oder selbst"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "From WebUntis or by hand"
-          }
-        }
-      }
-    },
-    "Bist du verbunden, landen Hausaufgaben und Teams-Aufgaben hier von selbst.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bist du verbunden, landen Hausaufgaben und Teams Aufgaben hier von selbst."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Once you're connected, homework and Teams assignments show up here on their own."
-          }
-        }
-      }
-    },
     "Daten verlassen dein Gerät nur, wenn du selbst eine Verbindung einschaltest. Mehr dazu steht in der Datenschutzerklärung unter Über Meldo.": {
       "localizations": {
         "de": {
@@ -9437,22 +7565,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Data only leaves your device if you turn on a connection yourself. The privacy policy under About Meldo has the details."
-          }
-        }
-      }
-    },
-    "Deine Anmeldungen für WebUntis, Teams und Google bleiben im Schlüsselbund dieses Geräts und gehen nie an Meldo.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine Anmeldungen für WebUntis, Teams und Google bleiben im Schlüsselbund dieses Geräts und gehen nie an Meldo."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your WebUntis, Teams and Google sign-ins stay in this device's keychain and never go to Meldo."
           }
         }
       }
@@ -9505,38 +7617,6 @@
         }
       }
     },
-    "Entschuldigt oder offen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entschuldigt oder offen"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Excused or open"
-          }
-        }
-      }
-    },
-    "Entschuldigung schreiben": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entschuldigung schreiben"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Write an excuse note"
-          }
-        }
-      }
-    },
     "Erinnerungen": {
       "localizations": {
         "de": {
@@ -9565,22 +7645,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pick the subject and Meldo suggests the next lesson in it as the due date. You can choose another date too."
-          }
-        }
-      }
-    },
-    "Ferien und freie Tage kommen aus WebUntis. Dort zeigt der Stundenplan keine Stunden, also fragt Meldo auch nicht nach.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ferien und freie Tage kommen aus WebUntis. Dort zeigt der Stundenplan keine Stunden, also fragt Meldo auch nicht nach."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Holidays and days off come from WebUntis. The timetable shows no lessons then, so Meldo doesn't ask either."
           }
         }
       }
@@ -9617,22 +7681,6 @@
         }
       }
     },
-    "Grün ist entschuldigt, rot ist noch offen. Verspätungen zählt Meldo extra.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grün ist entschuldigt, rot ist noch offen. Verspätungen zählt Meldo extra."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Green means excused, red means still open. Meldo counts late arrivals separately."
-          }
-        }
-      }
-    },
     "Halte die Kamera über das Blatt, Meldo schneidet es zu und macht ein PDF daraus. Mehrere Seiten gehen auch.": {
       "localizations": {
         "de": {
@@ -9645,22 +7693,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Hold the camera over the page and Meldo crops it and turns it into a PDF. Several pages work too."
-          }
-        }
-      }
-    },
-    "Halte eine Abwesenheit gedrückt, und Meldo füllt dir eine Entschuldigung zum Ausdrucken oder Teilen vor.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Halte eine Abwesenheit gedrückt, und Meldo füllt dir eine Entschuldigung zum Ausdrucken oder Teilen vor."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Press and hold an absence and Meldo fills in an excuse note for you to print or share."
           }
         }
       }
@@ -9857,22 +7889,6 @@
         }
       }
     },
-    "Mit WebUntis siehst du, wann du gefehlt hast und ob es schon entschuldigt ist.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mit WebUntis siehst du, wann du gefehlt hast und ob es schon entschuldigt ist."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "With WebUntis you can see when you were absent and whether it's already excused."
-          }
-        }
-      }
-    },
     "Nach Fach sortiert": {
       "localizations": {
         "de": {
@@ -10001,22 +8017,6 @@
         }
       }
     },
-    "Stundenplan, Vertretungen, Hausaufgaben, Prüfungen und Abwesenheiten deiner Schule. Du meldest dich mit deinem normalen Schul-Login an.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Stundenplan, Vertretungen, Hausaufgaben, Prüfungen und Abwesenheiten deiner Schule. Du meldest dich mit deinem normalen Schullogin an."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your school's timetable, substitutions, homework, exams and absences. You sign in with your usual school login."
-          }
-        }
-      }
-    },
     "Trag deine Noten ein, und Meldo rechnet deinen Schnitt pro Fach aus. Das ist deine eigene Rechnung, keine offizielle Note.": {
       "localizations": {
         "de": {
@@ -10029,38 +8029,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Enter your grades and Meldo works out your average per subject. It's your own calculation, not an official grade."
-          }
-        }
-      }
-    },
-    "Verbinde WebUntis, dann kommt dein Plan von allein, mit Vertretungen und Ausfällen. Ohne WebUntis trägst du die Stunden selbst ein.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinde WebUntis, dann kommt dein Plan von allein, mit Vertretungen und Ausfällen. Ohne WebUntis trägst du die Stunden selbst ein."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Connect WebUntis and your timetable arrives on its own, with substitutions and cancellations. Without WebUntis you enter the lessons yourself."
-          }
-        }
-      }
-    },
-    "Von WebUntis und Teams": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Von WebUntis und Teams"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "From WebUntis and Teams"
           }
         }
       }
@@ -10173,22 +8141,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Meldo syncs everything through your Google Drive: subjects, timetable, contributions, grades, tasks, absences, documents and settings. Everything is encrypted on your device with your sync password first, so Google can't read any of it. Passwords and sign-ins stay on the device."
-          }
-        }
-      }
-    },
-    "Fächer, Stundenplan, Meldungen, Noten, Aufgaben, Ferien, Abwesenheiten, Einstellungen, eingescannte oder importierte Dokumente sowie Entschuldigungen, die du in Meldo erstellst. Dokumente und Entschuldigungen liegen im Meldo-Ordner der Dateien-App. Eine Entschuldigung kann einen Grund wie Krankheit enthalten; Meldo merkt sich dafür deinen Namen und deine Klasse. Widgets und der Melden-Knopf lesen dieselben Daten auf diesem Gerät.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fächer, Stundenplan, Meldungen, Noten, Aufgaben, Ferien, Abwesenheiten, Einstellungen, eingescannte oder importierte Dokumente sowie Entschuldigungen, die du in Meldo erstellst. Dokumente und Entschuldigungen liegen im Meldo-Ordner der App „Dateien“. Eine Entschuldigung kann einen Grund wie Krankheit enthalten; Meldo merkt sich dafür deinen Namen und deine Klasse. Widgets und der Knopf „Melden“ lesen dieselben Daten auf diesem Gerät."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Subjects, timetable, hand-raises, grades, tasks, holidays, absences, settings, scanned or imported documents and excuse notes you create in Meldo. Documents and excuse notes are kept in the Meldo folder of the Files app. An excuse note can contain a reason such as illness; for this, Meldo remembers your name and class. Widgets and the Raise hand button read the same data on this device."
           }
         }
       }
@@ -10465,38 +8417,6 @@
         }
       }
     },
-    "Ferien-Countdown": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Countdown bis zu den Ferien"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Holiday countdown"
-          }
-        }
-      }
-    },
-    "Tage bis zu den nächsten Ferien.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tage bis zu den nächsten Ferien."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Days until the next school holidays."
-          }
-        }
-      }
-    },
     "Beim Öffnen": {
       "localizations": {
         "de": {
@@ -10749,6 +8669,118 @@
           "stringUnit": {
             "state": "translated",
             "value": "Terms of use"
+          }
+        }
+      }
+    },
+    "Einmal eintragen": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einmal eintragen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter it once"
+          }
+        }
+      }
+    },
+    "Trag deine Stunden einmal ein, dann kennt Meldo deine Woche.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trag deine Stunden einmal ein, dann kennt Meldo deine Woche."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter your lessons once, and Meldo knows your week."
+          }
+        }
+      }
+    },
+    "Von Teams": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Von Teams"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "From Teams"
+          }
+        }
+      }
+    },
+    "Bist du mit Teams verbunden, landen deine Teams-Aufgaben hier von selbst.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bist du mit Teams verbunden, landen deine Teams-Aufgaben hier von selbst."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Once you connect Teams, your Teams assignments show up here on their own."
+          }
+        }
+      }
+    },
+    "Deine Anmeldungen für Teams und Google bleiben im Schlüsselbund dieses Geräts und gehen nie an Meldo.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deine Anmeldungen für Teams und Google bleiben im Schlüsselbund dieses Geräts und gehen nie an Meldo."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your sign-ins for Teams and Google stay in this device's keychain and never go to Meldo."
+          }
+        }
+      }
+    },
+    "Meldo sichert nach jeder Änderung und beim Öffnen. Die Anmeldung bei Teams bleibt auf jedem Gerät.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldo sichert nach jeder Änderung und beim Öffnen. Die Anmeldung bei Teams bleibt auf jedem Gerät."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldo backs up after every change and when you open it. Your Teams sign-in stays on each device."
+          }
+        }
+      }
+    },
+    "Zurückgegebene Arbeiten scannst du unten ein.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zurückgegebene Arbeiten scannst du unten ein."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scan returned tests below."
           }
         }
       }
