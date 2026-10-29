@@ -1286,7 +1286,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sync Daten in Google Drive löschen"
+            "value": "Sync-Daten in Google Drive löschen"
           }
         },
         "en": {
@@ -1302,7 +1302,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sync Daten in Google Drive löschen"
+            "value": "Sync-Daten in Google Drive löschen"
           }
         },
         "en": {
@@ -1318,7 +1318,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sync Daten löschen"
+            "value": "Sync-Daten löschen"
           }
         },
         "en": {
@@ -1350,7 +1350,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sync Passwort"
+            "value": "Sync-Passwort"
           }
         },
         "en": {
@@ -1585,18 +1585,18 @@
         }
       }
     },
-    "Da Meldo deine Einträge nicht auf einem eigenen Server speichert, kann der Entwickler sie weder einsehen noch herausgeben. Hast du in den Einstellungen deines Geräts erlaubt, Analysedaten mit Entwicklern zu teilen, gibt Apple oder Google Play Absturzberichte ohne deinen Namen an den Entwickler weiter. Sie enthalten Gerätemodell, Systemversion und die Stelle im Code, aber keine Meldo-Einträge, und dienen nur dazu, Fehler zu beheben (Art. 6 Abs. 1 lit. f DSGVO). Anfragen zu Daten bei WebUntis, Microsoft oder Google richtest du an deine Schule oder an den jeweiligen Anbieter. Deine Rechte nach der Datenschutz-Grundverordnung (DSGVO) gelten dort weiterhin. Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Beschwerde bei einer Aufsichtsbehörde. Die ganze Datenschutzerklärung findest du unter meldo.dev/de/privacy.": {
+    "Da Meldo deine Einträge nicht auf einem eigenen Server speichert, kann der Entwickler sie weder einsehen noch herausgeben. Hast du in den Einstellungen deines Geräts erlaubt, Analysedaten mit App-Entwicklern zu teilen, gibt Apple Absturzberichte ohne deinen Namen an den Entwickler weiter. Sie enthalten Gerätemodell, Systemversion und die Stelle im Code, aber keine Meldo-Einträge, und dienen nur dazu, Fehler zu beheben (Art. 6 Abs. 1 lit. f DSGVO). Anfragen zu Daten bei WebUntis, Microsoft oder Google richtest du an deine Schule oder an den jeweiligen Anbieter. Deine Rechte nach der Datenschutz-Grundverordnung (DSGVO) gelten dort weiterhin. Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Beschwerde bei einer Aufsichtsbehörde. Widerspruchsrecht: Verarbeiten wir Daten nach Art. 6 Abs. 1 lit. f DSGVO, kannst du dem jederzeit widersprechen, per E-Mail an contact@meldo.dev. Die ganze Datenschutzerklärung findest du unter meldo.dev/de/privacy.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Da Meldo deine Einträge nicht auf einem eigenen Server speichert, kann der Entwickler sie weder einsehen noch herausgeben. Hast du in den Einstellungen deines Geräts erlaubt, Analysedaten mit Entwicklern zu teilen, gibt Apple oder Google Play Absturzberichte ohne deinen Namen an den Entwickler weiter. Sie enthalten Gerätemodell, Systemversion und die Stelle im Code, aber keine Meldo-Einträge, und dienen nur dazu, Fehler zu beheben (Art. 6 Abs. 1 lit. f DSGVO). Anfragen zu Daten bei WebUntis, Microsoft oder Google richtest du an deine Schule oder an den jeweiligen Anbieter. Deine Rechte nach der Datenschutz-Grundverordnung (DSGVO) gelten dort weiterhin. Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Beschwerde bei einer Aufsichtsbehörde. Die ganze Datenschutzerklärung findest du unter meldo.dev/de/privacy."
+            "value": "Da Meldo deine Einträge nicht auf einem eigenen Server speichert, kann der Entwickler sie weder einsehen noch herausgeben. Hast du in den Einstellungen deines Geräts erlaubt, Analysedaten mit App-Entwicklern zu teilen, gibt Apple Absturzberichte ohne deinen Namen an den Entwickler weiter. Sie enthalten Gerätemodell, Systemversion und die Stelle im Code, aber keine Meldo-Einträge, und dienen nur dazu, Fehler zu beheben (Art. 6 Abs. 1 lit. f DSGVO). Anfragen zu Daten bei WebUntis, Microsoft oder Google richtest du an deine Schule oder an den jeweiligen Anbieter. Deine Rechte nach der Datenschutz-Grundverordnung (DSGVO) gelten dort weiterhin. Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Beschwerde bei einer Aufsichtsbehörde. Widerspruchsrecht: Verarbeiten wir Daten nach Art. 6 Abs. 1 lit. f DSGVO, kannst du dem jederzeit widersprechen, per E-Mail an contact@meldo.dev. Die ganze Datenschutzerklärung findest du unter meldo.dev/de/privacy."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Because Meldo does not store your entries on a server of its own, the developer can neither see them nor hand them over. If you allowed sharing analytics with developers in your device settings, Apple or Google Play passes crash reports to the developer without your name. They contain the device model, system version and the place in the code, but no Meldo entries, and are used only to fix bugs (Art. 6(1)(f) GDPR). Requests about your data at WebUntis, Microsoft or Google go to your school or the provider concerned. Your rights under the General Data Protection Regulation (GDPR) still apply there. You have the right of access, rectification, erasure, restriction, data portability and objection, and the right to lodge a complaint with a supervisory authority. You can find the full privacy policy at meldo.dev/en/privacy."
+            "value": "Because Meldo does not store your entries on a server of its own, the developer can neither see them nor hand them over. If you allowed sharing analytics with app developers in your device settings, Apple passes crash reports to the developer without your name. They contain the device model, system version and the place in the code, but no Meldo entries, and are used only to fix bugs (Art. 6(1)(f) GDPR). Requests about your data at WebUntis, Microsoft or Google go to your school or the provider concerned. Your rights under the General Data Protection Regulation (GDPR) still apply there. You have the right of access, rectification, erasure, restriction, data portability and objection, and the right to lodge a complaint with a supervisory authority. Right to object: where data is processed under Art. 6(1)(f) GDPR, you can object at any time by emailing contact@meldo.dev. You can find the full privacy policy at meldo.dev/en/privacy."
           }
         }
       }
@@ -1670,7 +1670,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Die Sync Daten in Google Drive sind beschädigt."
+            "value": "Die Sync-Daten in Google Drive sind beschädigt."
           }
         },
         "en": {
@@ -1686,7 +1686,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Die Sync Daten verschwinden für alle deine Geräte. Die Daten auf diesem Gerät bleiben."
+            "value": "Die Sync-Daten verschwinden für alle deine Geräte. Die Daten auf diesem Gerät bleiben."
           }
         },
         "en": {
@@ -1702,7 +1702,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Der Sync wurde auf einem anderen Gerät gelöscht oder neu eingerichtet. Gib das Sync Passwort ein."
+            "value": "Der Sync wurde auf einem anderen Gerät gelöscht oder neu eingerichtet. Gib das Sync-Passwort ein."
           }
         },
         "en": {
@@ -1782,7 +1782,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Das iPad zeigt keine Live Aktivitäten an. Sie erscheinen auf dem iPhone."
+            "value": "Das iPad zeigt keine Live-Aktivitäten an. Sie erscheinen auf dem iPhone."
           }
         },
         "en": {
@@ -1990,7 +1990,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dein WebUntis Passwort oder deine Schulanmeldung, die Anmeldung bei Microsoft und die Anmeldung bei Google werden nur im Schlüsselbund dieses Geräts gespeichert. Sie werden weder synchronisiert noch in Backups übertragen. Auf einem neuen Gerät meldest du dich deshalb erneut an."
+            "value": "Dein WebUntis-Passwort oder deine Schulanmeldung, die Anmeldung bei Microsoft und die Anmeldung bei Google werden nur im Schlüsselbund dieses Geräts gespeichert. Sie werden weder synchronisiert noch in Backups übertragen. Auf einem neuen Gerät meldest du dich deshalb erneut an."
           }
         },
         "en": {
@@ -2385,6 +2385,22 @@
         }
       }
     },
+    "Diese Schule steht nicht in der WebUntis-Schulsuche. Trenne WebUntis und verbinde dich neu.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Schule steht nicht in der WebUntis-Schulsuche. Trenne WebUntis und verbinde dich neu."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This school isn't in the WebUntis school search. Disconnect WebUntis and connect again."
+          }
+        }
+      }
+    },
     "Diese Stunde ist ungültig.": {
       "localizations": {
         "de": {
@@ -2721,18 +2737,18 @@
         }
       }
     },
-    "Erinnerungen, die Frage nach jeder Stunde und die Live-Aktivität werden auf deinem Gerät erzeugt. Dafür sendet Meldo keine Daten an einen Server. Widgets, die Live-Aktivität und Mitteilungen zeigen deine Stunden und Aufgaben auch, wenn dein Gerät gesperrt ist. Das kannst du in den Einstellungen deines Geräts ausschalten.": {
+    "Erinnerungen, die Frage nach jeder Stunde und die Live-Aktivität werden auf deinem Gerät erzeugt. Dafür sendet Meldo keine Daten an einen Server. Mitteilungen, die Live-Aktivität und Widgets auf dem Sperrbildschirm oder im StandBy-Modus zeigen Fächer und Aufgaben auch, wenn dein Gerät gesperrt ist. Das änderst du in den Einstellungen deines Geräts oder indem du das Widget entfernst.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Erinnerungen, die Frage nach jeder Stunde und die Live Aktivität werden auf deinem Gerät erzeugt. Dafür sendet Meldo keine Daten an einen Server. Widgets, die Live Aktivität und Mitteilungen zeigen deine Stunden und Aufgaben auch, wenn dein Gerät gesperrt ist. Das kannst du in den Einstellungen deines Geräts ausschalten."
+            "value": "Erinnerungen, die Frage nach jeder Stunde und die Live-Aktivität werden auf deinem Gerät erzeugt. Dafür sendet Meldo keine Daten an einen Server. Mitteilungen, die Live-Aktivität und Widgets auf dem Sperrbildschirm oder im StandBy-Modus zeigen Fächer und Aufgaben auch, wenn dein Gerät gesperrt ist. Das änderst du in den Einstellungen deines Geräts oder indem du das Widget entfernst."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Reminders, the question after each lesson and the Live Activity are created on your device. Meldo sends no data to a server for them. Widgets, the Live Activity and notifications show your lessons and tasks even while your device is locked. You can turn this off in your device settings."
+            "value": "Reminders, the question after each lesson and the Live Activity are created on your device. Meldo sends no data to a server for them. Notifications, the Live Activity and widgets on the Lock Screen or in StandBy show subjects and tasks even while your device is locked. You can change this in your device settings or by removing the widget."
           }
         }
       }
@@ -3398,7 +3414,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Gib das Sync Passwort ein, das du auf deinem anderen Gerät gewählt hast. Passwort vergessen? Dann lösche die Sync Daten und richte den Sync neu ein."
+            "value": "Gib das Sync-Passwort ein, das du auf deinem anderen Gerät gewählt hast. Passwort vergessen? Dann lösche die Sync-Daten und richte den Sync neu ein."
           }
         },
         "en": {
@@ -4822,7 +4838,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Live Aktivität"
+            "value": "Live-Aktivität"
           }
         },
         "en": {
@@ -4838,7 +4854,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Live Aktivität während der Stunde"
+            "value": "Live-Aktivität während der Stunde"
           }
         },
         "en": {
@@ -4854,7 +4870,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Live Aktivitäten"
+            "value": "Live-Aktivitäten"
           }
         },
         "en": {
@@ -4870,7 +4886,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Live Aktivitäten sind in den Einstellungen von iOS aus."
+            "value": "Live-Aktivitäten sind in den Einstellungen von iOS aus."
           }
         },
         "en": {
@@ -5009,18 +5025,18 @@
         }
       }
     },
-    "Meldo aktualisiert Stundenplan, Ausfälle und Vertretungen automatisch: beim Öffnen, alle 30 Minuten und im Hintergrund.": {
+    "Meldo aktualisiert Stundenplan, Ausfälle und Vertretungen automatisch: beim Öffnen, alle 30 Sekunden, solange die App offen ist, und im Hintergrund etwa alle 20 Minuten.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo aktualisiert Stundenplan, Ausfälle und Vertretungen automatisch: beim Öffnen, alle 30 Minuten und im Hintergrund."
+            "value": "Meldo aktualisiert Stundenplan, Ausfälle und Vertretungen automatisch: beim Öffnen, alle 30 Sekunden, solange die App offen ist, und im Hintergrund etwa alle 20 Minuten."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo updates your timetable, cancelled lessons and substitutions automatically: when you open the app, every 30 minutes and in the background."
+            "value": "Meldo updates your timetable, cancelled lessons and substitutions automatically: when you open the app, every 30 seconds while it's open, and about every 20 minutes in the background."
           }
         }
       }
@@ -5057,12 +5073,28 @@
         }
       }
     },
+    "Meldo fragt bei Google nur nach seinem versteckten App-Ordner und der E-Mail-Adresse deines Kontos. Die Adresse zeigt Meldo nur hier an.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldo fragt bei Google nur nach seinem versteckten App-Ordner und der E-Mail-Adresse deines Kontos. Die Adresse zeigt Meldo nur hier an."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldo asks Google only for its hidden app folder and your account's email address. Meldo only shows the address here."
+          }
+        }
+      }
+    },
     "Meldo hat keinen eigenen Server und kein Konto. Wir zeigen keine Werbung, nutzen kein Tracking und keine Analyse-Dienste. Deine Daten werden auf deinem Gerät gespeichert. Nur wenn du WebUntis, Microsoft Teams oder Google Drive selbst verbindest, tauscht Meldo Daten mit diesen Diensten aus.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo hat keinen eigenen Server und kein Konto. Wir zeigen keine Werbung, nutzen kein Tracking und keine Analysedienste. Deine Daten werden auf deinem Gerät gespeichert. Nur wenn du WebUntis, Microsoft Teams oder Google Drive selbst verbindest, tauscht Meldo Daten mit diesen Diensten aus."
+            "value": "Meldo hat keinen eigenen Server und kein Konto. Wir zeigen keine Werbung, nutzen kein Tracking und keine Analysedienste. Deine Daten werden auf deinem Gerät gespeichert. Nur wenn du WebUntis, Microsoft Teams oder Google Drive selbst verbindest, tauscht Meldo-Daten mit diesen Diensten aus."
           }
         },
         "en": {
@@ -5085,6 +5117,22 @@
           "stringUnit": {
             "state": "translated",
             "value": "Meldo imports your timetable"
+          }
+        }
+      }
+    },
+    "Meldo ist für Schülerinnen und Schüler gemacht, auch unter 16 Jahren. Der Entwickler sammelt über Meldo keine Daten über dich. Für die Anmeldung bei WebUntis, Microsoft und Google gelten die Regeln deiner Schule und dieser Anbieter. Bist du unter 16, sprich mit deinen Eltern, bevor du Microsoft oder Google verbindest.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldo ist für Schülerinnen und Schüler gemacht, auch unter 16 Jahren. Der Entwickler sammelt über Meldo keine Daten über dich. Für die Anmeldung bei WebUntis, Microsoft und Google gelten die Regeln deiner Schule und dieser Anbieter. Bist du unter 16, sprich mit deinen Eltern, bevor du Microsoft oder Google verbindest."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meldo is made for students, including those under 16. The developer does not collect data about you through Meldo. Signing in to WebUntis, Microsoft and Google is governed by the rules of your school and those providers. If you are under 16, talk to your parents before connecting Microsoft or Google."
           }
         }
       }
@@ -5158,7 +5206,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo übernimmt deinen Stundenplan, Ausfälle und Vertretungen aus WebUntis. Dein Login bleibt auf diesem iPhone und geht nur an den WebUntis Server deiner Schule."
+            "value": "Meldo übernimmt deinen Stundenplan, Ausfälle und Vertretungen aus WebUntis. Dein Login bleibt auf diesem iPhone und geht nur an den WebUntis-Server deiner Schule."
           }
         },
         "en": {
@@ -5494,7 +5542,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mitteilungen und Live Aktivität"
+            "value": "Mitteilungen und Live-Aktivität"
           }
         },
         "en": {
@@ -8241,6 +8289,22 @@
         }
       }
     },
+    "Was du in Meldo einträgst, bleibt auf deinem Gerät. Deine Einträge bekommt der Entwickler nicht. Meldo verarbeitet deine Einträge und die Verbindungen, die du einschaltest, weil das nötig ist, damit du Meldo wie in den Nutzungsbedingungen beschrieben nutzen kannst (Art. 6 Abs. 1 lit. b DSGVO). Meldo stützt sich auf keine Einwilligung. Tippst du bei Google oder Microsoft auf „Zulassen“, bekommt Meldo dort Zugriff. Für die Verarbeitung auf ihrer Seite sind diese Anbieter oder deine Schule verantwortlich.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Was du in Meldo einträgst, bleibt auf deinem Gerät. Deine Einträge bekommt der Entwickler nicht. Meldo verarbeitet deine Einträge und die Verbindungen, die du einschaltest, weil das nötig ist, damit du Meldo wie in den Nutzungsbedingungen beschrieben nutzen kannst (Art. 6 Abs. 1 lit. b DSGVO). Meldo stützt sich auf keine Einwilligung. Tippst du bei Google oder Microsoft auf „Zulassen“, bekommt Meldo dort Zugriff. Für die Verarbeitung auf ihrer Seite sind diese Anbieter oder deine Schule verantwortlich."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What you enter in Meldo stays on your device. The developer does not receive your entries. Meldo processes your entries and the connections you turn on because that is needed for you to use Meldo as described in the terms of use (Art. 6(1)(b) GDPR). Meldo does not rely on consent. When you tap Allow at Google or Microsoft, Meldo gets access there. Those providers or your school are responsible for the processing on their side."
+          }
+        }
+      }
+    },
     "Was ist zu tun?": {
       "localizations": {
         "de": {
@@ -8422,13 +8486,45 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Wenn dein iPhone oder iPad ein Backup in iCloud oder auf einem Computer erstellt, sind deine Meldo Daten darin enthalten. Passwörter und Anmeldungen sind davon ausgenommen."
+            "value": "Wenn dein iPhone oder iPad ein Backup in iCloud oder auf einem Computer erstellt, sind deine Meldo-Daten darin enthalten. Passwörter und Anmeldungen sind davon ausgenommen."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
             "value": "When your iPhone or iPad makes a backup to iCloud or a computer, your Meldo data is included. Passwords and sign-ins are not."
+          }
+        }
+      }
+    },
+    "Wenn du das Backup einschaltest, speichert Meldo deine Daten und Dokumente in einem versteckten Ordner in deinem Google Drive. Vorher werden sie auf deinem Gerät mit deinem Backup-Passwort verschlüsselt. Google kann den Inhalt nicht lesen, sieht aber Anzahl, Größe und Zeitpunkt der Dateien. Meldo hat nur Zugriff auf diesen eigenen Ordner, nicht auf deine anderen Dateien. Außerdem liest Meldo die E-Mail-Adresse deines Google-Kontos, um anzuzeigen, welches Konto verbunden ist. Google kann die verschlüsselten Dateien auf Servern außerhalb der EU speichern. Die Nutzung von Informationen, die Meldo von Google-APIs erhält, und ihre Übertragung an andere Apps entsprechen der Google API Services User Data Policy, einschließlich der Anforderungen zur eingeschränkten Nutzung (Limited Use).": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn du den Sync einschaltest, speichert Meldo deine Daten und Dokumente in einem versteckten Ordner in deinem Google Drive. Vorher werden sie auf deinem Gerät mit deinem Sync-Passwort verschlüsselt. Google kann den Inhalt nicht lesen, sieht aber Anzahl, Größe und Zeitpunkt der Dateien. Meldo hat nur Zugriff auf diesen eigenen Ordner, nicht auf deine anderen Dateien. Außerdem liest Meldo die E-Mail-Adresse deines Google-Kontos, um anzuzeigen, welches Konto verbunden ist. Google kann die verschlüsselten Dateien auf Servern außerhalb der EU speichern. Die Nutzung von Informationen, die Meldo von Google-APIs erhält, und ihre Übertragung an andere Apps entsprechen der Google API Services User Data Policy, einschließlich der Anforderungen zur eingeschränkten Nutzung (Limited Use)."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If you turn on sync, Meldo saves your data and documents in a hidden folder in your Google Drive. They are encrypted on your device with your sync password first. Google cannot read the content, but it can see how many files there are, their size and when they were saved. Meldo can access only this folder of its own, not your other files. Meldo also reads your Google account's email address to show which account is connected. Google may store the encrypted files on servers outside the EU. Meldo's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements."
+          }
+        }
+      }
+    },
+    "Wenn du Teams verbindest, meldest du dich auf der Seite von Microsoft an. Meldo liest dann über die Schnittstelle von Microsoft deine Aufgaben, deine Klassen und deinen Namen (oder, falls keiner hinterlegt ist, deine Schul-E-Mail-Adresse) und bleibt angemeldet. Die Aufgaben speichert Meldo als Hausaufgaben auf deinem Gerät. Deinen Namen und die Namen deiner Klassen zeigt Meldo nur in der App an. Meldo sieht dein Microsoft-Passwort nicht. Meldo sucht höchstens alle drei Stunden nach neuen Aufgaben, auch im Hintergrund. Microsoft kann Daten außerhalb der EU verarbeiten; dafür gelten die Bedingungen von Microsoft und deiner Schule.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn du Teams verbindest, meldest du dich auf der Seite von Microsoft an. Meldo liest dann über die Schnittstelle von Microsoft deine Aufgaben, deine Klassen und deinen Namen (oder, falls keiner hinterlegt ist, deine Schul-E-Mail-Adresse) und bleibt angemeldet. Die Aufgaben speichert Meldo als Hausaufgaben auf deinem Gerät. Deinen Namen und die Namen deiner Klassen zeigt Meldo nur in der App an. Meldo sieht dein Microsoft-Passwort nicht. Meldo sucht höchstens alle drei Stunden nach neuen Aufgaben, auch im Hintergrund. Microsoft kann Daten außerhalb der EU verarbeiten; dafür gelten die Bedingungen von Microsoft und deiner Schule."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "When you connect Teams, you sign in on Microsoft's page. Meldo then reads your assignments, your classes and your name (or, if none is set, your school email address) through Microsoft's interface and stays signed in. Meldo saves the assignments as homework on your device. Your name and your class names are only shown in the app. Meldo never sees your Microsoft password. Meldo looks for new assignments at most every three hours, also in the background. Microsoft may process data outside the EU; Microsoft's and your school's terms apply to that."
           }
         }
       }
@@ -10326,7 +10422,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Meldo synchronisiert alles über dein Google Drive: Fächer, Stundenplan, Meldungen, Noten, Aufgaben, Abwesenheiten, Dokumente und Einstellungen. Vorher wird alles auf deinem Gerät mit deinem Sync Passwort verschlüsselt, sodass Google nichts lesen kann. Passwörter und Anmeldungen bleiben auf dem Gerät."
+            "value": "Meldo synchronisiert alles über dein Google Drive: Fächer, Stundenplan, Meldungen, Noten, Aufgaben, Abwesenheiten, Dokumente und Einstellungen. Vorher wird alles auf deinem Gerät mit deinem Sync-Passwort verschlüsselt, sodass Google nichts lesen kann. Passwörter und Anmeldungen bleiben auf dem Gerät."
           }
         },
         "en": {
@@ -10358,7 +10454,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Wenn du WebUntis verbindest, meldet sich Meldo direkt beim WebUntis Server deiner Schule an und lädt deinen Stundenplan, Vertretungen, Abwesenheiten, Prüfungen, Hausaufgaben und Mitteilungen der Schule. Um deine Schule zu finden, schickt Meldo deinen Suchbegriff an die Schulsuche von WebUntis. Die Daten fließen nur zwischen deinem Gerät und Untis. Für die Verarbeitung dort sind deine Schule und der Anbieter Untis verantwortlich. Solange die Verbindung besteht, fragt Meldo dort regelmäßig nach Änderungen: bei geöffneter App etwa alle 30 Sekunden, im Hintergrund etwa alle 20 Minuten. Den genauen Zeitpunkt bestimmt dein Gerät."
+            "value": "Wenn du WebUntis verbindest, meldet sich Meldo direkt beim WebUntis-Server deiner Schule an und lädt deinen Stundenplan, Vertretungen, Abwesenheiten, Prüfungen, Hausaufgaben und Mitteilungen der Schule. Um deine Schule zu finden, schickt Meldo deinen Suchbegriff an die Schulsuche von WebUntis. Die Daten fließen nur zwischen deinem Gerät und Untis. Für die Verarbeitung dort sind deine Schule und der Anbieter Untis verantwortlich. Solange die Verbindung besteht, fragt Meldo dort regelmäßig nach Änderungen: bei geöffneter App etwa alle 30 Sekunden, im Hintergrund etwa alle 20 Minuten. Den genauen Zeitpunkt bestimmt dein Gerät."
           }
         },
         "en": {
@@ -10369,44 +10465,12 @@
         }
       }
     },
-    "Wenn du Teams verbindest, meldest du dich auf der Seite von Microsoft an. Meldo liest dann über die Schnittstelle von Microsoft deine Aufgaben, deine Klassen und deinen Namen und bleibt angemeldet. Die Aufgaben speichert Meldo als Hausaufgaben auf deinem Gerät. Deinen Namen und die Namen deiner Klassen zeigt Meldo nur in der App an. Meldo sieht dein Microsoft-Passwort nicht. Meldo sucht höchstens alle drei Stunden nach neuen Aufgaben, auch im Hintergrund. Microsoft kann Daten außerhalb der EU verarbeiten; dafür gelten die Bedingungen von Microsoft und deiner Schule.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wenn du Teams verbindest, meldest du dich auf der Seite von Microsoft an. Meldo liest dann über die Schnittstelle von Microsoft deine Aufgaben, deine Klassen und deinen Namen und bleibt angemeldet. Die Aufgaben speichert Meldo als Hausaufgaben auf deinem Gerät. Deinen Namen und die Namen deiner Klassen zeigt Meldo nur in der App an. Meldo sieht dein Microsoft Passwort nicht. Meldo sucht höchstens alle drei Stunden nach neuen Aufgaben, auch im Hintergrund. Microsoft kann Daten außerhalb der EU verarbeiten; dafür gelten die Bedingungen von Microsoft und deiner Schule."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "When you connect Teams, you sign in on Microsoft's page. Meldo then reads your assignments, your classes and your name through Microsoft's interface and stays signed in. Meldo saves the assignments as homework on your device. Your name and your class names are only shown in the app. Meldo never sees your Microsoft password. Meldo looks for new assignments at most every three hours, also in the background. Microsoft may process data outside the EU; Microsoft's and your school's terms apply to that."
-          }
-        }
-      }
-    },
-    "Wenn du das Backup einschaltest, speichert Meldo deine Daten und Dokumente in einem versteckten Ordner in deinem Google Drive. Vorher werden sie auf deinem Gerät mit deinem Backup-Passwort verschlüsselt. Google kann den Inhalt nicht lesen, sieht aber Anzahl, Größe und Zeitpunkt der Dateien. Meldo hat nur Zugriff auf diesen eigenen Ordner, nicht auf deine anderen Dateien. Außerdem liest Meldo die E-Mail-Adresse deines Google-Kontos, um anzuzeigen, welches Konto verbunden ist. Google kann die verschlüsselten Dateien auf Servern außerhalb der EU speichern. Die Nutzung und Weitergabe von Informationen, die Meldo von Google-APIs erhält, an andere Apps hält sich an die Google API Services User Data Policy, einschließlich der Anforderungen zur eingeschränkten Nutzung (Limited Use).": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wenn du den Sync einschaltest, speichert Meldo deine Daten und Dokumente in einem versteckten Ordner in deinem Google Drive. Vorher werden sie auf deinem Gerät mit deinem Sync Passwort verschlüsselt. Google kann den Inhalt nicht lesen, sieht aber Anzahl, Größe und Zeitpunkt der Dateien. Meldo hat nur Zugriff auf diesen eigenen Ordner, nicht auf deine anderen Dateien. Außerdem liest Meldo die E-Mail-Adresse deines Google Kontos, um anzuzeigen, welches Konto verbunden ist. Google kann die verschlüsselten Dateien auf Servern außerhalb der EU speichern. Die Nutzung und Weitergabe von Informationen, die Meldo von Google-APIs erhält, an andere Apps hält sich an die Google API Services User Data Policy, einschließlich der Anforderungen zur eingeschränkten Nutzung (Limited Use)."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "If you turn on sync, Meldo saves your data and documents in a hidden folder in your Google Drive. They are encrypted on your device with your sync password first. Google cannot read the content, but it can see how many files there are, their size and when they were saved. Meldo can access only this folder of its own, not your other files. Meldo also reads your Google account's email address to show which account is connected. Google may store the encrypted files on servers outside the EU. Meldo's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements."
-          }
-        }
-      }
-    },
     "Du kannst einzelne Einträge in der App löschen. Wenn du Meldo vom Gerät löschst, werden deine Meldo-Daten auf diesem Gerät entfernt. Anmeldungen im Schlüsselbund kann iOS auch danach behalten; trennst du die Verbindungen vorher in der App, sind sie sofort gelöscht. Kann Meldo seine Datei einmal nicht lesen, hebt es eine Kopie höchstens 30 Tage auf, damit nichts verloren geht. Verbindungen zu WebUntis, Teams und Google Drive kannst du jederzeit in der App trennen. Das Backup in Google Drive löschst du unter Mehr > Google Drive > Backup in Google Drive löschen.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Du kannst einzelne Einträge in der App löschen. Wenn du Meldo vom Gerät löschst, werden deine Meldo Daten auf diesem Gerät entfernt. Anmeldungen im Schlüsselbund kann iOS auch danach behalten; trennst du die Verbindungen vorher in der App, sind sie sofort gelöscht. Kann Meldo seine Datei einmal nicht lesen, hebt es eine Kopie höchstens 30 Tage auf, damit nichts verloren geht. Verbindungen zu WebUntis, Teams und Google Drive kannst du jederzeit in der App trennen. Die Sync Daten in Google Drive löschst du unter Mehr > Google Drive > Sync Daten in Google Drive löschen."
+            "value": "Du kannst einzelne Einträge in der App löschen. Wenn du Meldo vom Gerät löschst, werden deine Meldo-Daten auf diesem Gerät entfernt. Anmeldungen im Schlüsselbund kann iOS auch danach behalten; trennst du die Verbindungen vorher in der App, sind sie sofort gelöscht. Kann Meldo seine Datei einmal nicht lesen, hebt es eine Kopie höchstens 30 Tage auf, damit nichts verloren geht. Verbindungen zu WebUntis, Teams und Google Drive kannst du jederzeit in der App trennen. Die Sync-Daten in Google Drive löschst du unter Mehr > Google Drive > Sync-Daten in Google Drive löschen."
           }
         },
         "en": {
@@ -10433,22 +10497,6 @@
         }
       }
     },
-    "Meldo ist für Schülerinnen und Schüler gemacht, auch unter 16 Jahren. Meldo selbst erhebt keine Daten. Für die Anmeldung bei WebUntis, Microsoft und Google gelten die Regeln deiner Schule und dieser Anbieter. Bist du unter 16, sprich mit deinen Eltern, bevor du Microsoft oder Google verbindest.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo ist für Schülerinnen und Schüler gemacht, auch unter 16 Jahren. Meldo selbst erhebt keine Daten. Für die Anmeldung bei WebUntis, Microsoft und Google gelten die Regeln deiner Schule und dieser Anbieter. Bist du unter 16, sprich mit deinen Eltern, bevor du Microsoft oder Google verbindest."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meldo is made for students, including those under 16. Meldo itself collects no data. Signing in to WebUntis, Microsoft and Google is governed by the rules of your school and those providers. If you are under 16, talk to your parents before connecting Microsoft or Google."
-          }
-        }
-      }
-    },
     "Erweitert": {
       "localizations": {
         "de": {
@@ -10470,7 +10518,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Fast fertig: Gib dein Sync Passwort ein"
+            "value": "Fast fertig: Gib dein Sync-Passwort ein"
           }
         },
         "en": {
@@ -10982,7 +11030,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Verschlüsselter Sync über dein eigenes Google Drive, mit all deinen Einstellungen. Beim Einrichten legst du ein Sync Passwort fest; damit verbindest du auch ein neues Gerät."
+            "value": "Verschlüsselter Sync über dein eigenes Google Drive, mit all deinen Einstellungen. Beim Einrichten legst du ein Sync-Passwort fest; damit verbindest du auch ein neues Gerät."
           }
         },
         "en": {
@@ -11037,22 +11085,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Legal basis"
-          }
-        }
-      }
-    },
-    "Was in der App passiert, passiert auf deinem Gerät; der Entwickler erhält davon nichts. Meldo verarbeitet deine Einträge und die Verbindungen, die du einschaltest, weil das nötig ist, damit du Meldo wie in den Nutzungsbedingungen beschrieben nutzen kannst (Art. 6 Abs. 1 lit. b DSGVO). Meldo stützt sich auf keine Einwilligung. Tippst du bei Google oder Microsoft auf „Zulassen“, bekommt Meldo dort Zugriff. Für die Verarbeitung auf ihrer Seite sind diese Anbieter oder deine Schule verantwortlich.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Was in der App passiert, passiert auf deinem Gerät; der Entwickler erhält davon nichts. Meldo verarbeitet deine Einträge und die Verbindungen, die du einschaltest, weil das nötig ist, damit du Meldo wie in den Nutzungsbedingungen beschrieben nutzen kannst (Art. 6 Abs. 1 lit. b DSGVO). Meldo stützt sich auf keine Einwilligung. Tippst du bei Google oder Microsoft auf „Zulassen“, bekommt Meldo dort Zugriff. Für die Verarbeitung auf ihrer Seite sind diese Anbieter oder deine Schule verantwortlich."
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "What happens in the app happens on your device; the developer receives none of it. Meldo processes your entries and the connections you turn on because that is needed for you to use Meldo as described in the terms of use (Art. 6(1)(b) GDPR). Meldo does not rely on consent. When you tap Allow at Google or Microsoft, Meldo gets access there. Those providers or your school are responsible for the processing on their side."
           }
         }
       }
