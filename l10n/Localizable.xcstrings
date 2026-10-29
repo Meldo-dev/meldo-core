@@ -8784,6 +8784,86 @@
           }
         }
       }
+    },
+    "WebUntis": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebUntis"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebUntis"
+          }
+        }
+      }
+    },
+    "Wartet auf Freigabe durch Untis": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wartet auf Freigabe durch Untis"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waiting for approval from Untis"
+          }
+        }
+      }
+    },
+    "In dieser Version und in den kommenden Versionen nicht verfügbar, bis Untis die Anbindung freigibt. Bis dahin trägst du deinen Stundenplan selbst ein.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In dieser Version und in den kommenden Versionen nicht verfügbar, bis Untis die Anbindung freigibt. Bis dahin trägst du deinen Stundenplan selbst ein."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not available in this version or upcoming versions until Untis approves it. Until then, you type your timetable in yourself."
+          }
+        }
+      }
+    },
+    "Mit WebUntis verbinden": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit WebUntis verbinden"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect WebUntis"
+          }
+        }
+      }
+    },
+    "Wartet auf Freigabe durch Untis. Bis dahin legst du deine Fächer selbst an.": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wartet auf Freigabe durch Untis. Bis dahin legst du deine Fächer selbst an."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waiting for approval from Untis. Until then, you add your subjects yourself."
+          }
+        }
+      }
     }
   },
   "version": "1.0"
