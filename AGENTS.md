@@ -8,7 +8,7 @@ Meldo is a free, open source school planner for students in Germany. Its core fe
 
 - Apps for iOS, iPadOS and Android. All three share one Rust core (meldo-core).
 - No backend and no account. Data stays on the device.
-- Optional integrations: WebUntis timetable import, Microsoft Teams assignments, and Google Drive backup and sync. Sync data is encrypted on the device before upload (AES-256-GCM, key from PBKDF2-SHA256) and stored in the `drive.appdata` scope.
+- Optional integrations: Microsoft Teams assignments, and Google Drive backup and sync. Sync data is encrypted on the device before upload (AES-256-GCM, key from PBKDF2-SHA256) and stored in the `drive.appdata` scope.
 - German is the default language, English is the second one.
 - Website: meldo.dev.
 
@@ -25,7 +25,6 @@ meldo-core is the Rust workspace both apps share. Anything iOS and Android must 
 | `crates/melde-scheduling` | Timetable, A/B weeks, bell schedule |
 | `crates/melde-statistics` | Participation counts, streaks, weekly goals |
 | `crates/melde-tasks` | Homework and to-do rules, recurrence |
-| `crates/melde-untis` | WebUntis JSON-RPC and REST parsing and derivation |
 | `crates/melde-ffi` | The UniFFI surface both apps bind to |
 | `tools/uniffi-bindgen` | Pinned binding generator |
 | `l10n/Localizable.xcstrings` | The German and English string catalog for both apps |
@@ -76,4 +75,5 @@ There are no releases here. The apps pick up a change when their `core/` submodu
 - Don't push to `main`, `beta` or `alpha`, and don't create tags or releases, unless the owner asked for it. Work on a branch and open a pull request.
 - `beta` and `alpha` differ from `main` on purpose. Don't merge `main` into them, and don't force-push.
 - Don't touch the owner's devices or real data.
+- The WebUntis import is not part of the apps for now. Don't add it back or reintroduce code for it.
 - Site: no third-party requests, cookies or trackers. Keep the `/de/` and `/en/` URLs and the redirects. Legal pages: German is authoritative, English matches it.

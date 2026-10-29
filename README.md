@@ -1,6 +1,6 @@
 # meldo-core
 
-This is the Rust core of [Meldo](https://meldo.dev), a school planner for students in Germany. Anything the iOS and Android apps must compute the same way lives here: grade averages on the 1–6 and 0–15 scales, the timetable with A/B weeks and substitutions, WebUntis parsing, participation statistics and the rules for tasks. Both apps call it through [UniFFI](https://github.com/mozilla/uniffi-rs), which generates the Swift and Kotlin bindings.
+This is the Rust core of [Meldo](https://meldo.dev), a school planner for students in Germany. Anything the iOS and Android apps must compute the same way lives here: grade averages on the 1–6 and 0–15 scales, the timetable with A/B weeks and substitutions, participation statistics and the rules for tasks. Both apps call it through [UniFFI](https://github.com/mozilla/uniffi-rs), which generates the Swift and Kotlin bindings.
 
 | Crate | Contents |
 |---|---|
@@ -9,7 +9,6 @@ This is the Rust core of [Meldo](https://meldo.dev), a school planner for studen
 | `melde-scheduling` | Timetable, A/B weeks, bell schedule |
 | `melde-statistics` | Participation counts, streaks, weekly goals |
 | `melde-tasks` | Homework and to-do rules, recurrence |
-| `melde-untis` | WebUntis JSON-RPC/REST parsing and derivation |
 | `melde-ffi` | The UniFFI surface both apps bind to |
 | `tools/uniffi-bindgen` | Pinned binding generator |
 
